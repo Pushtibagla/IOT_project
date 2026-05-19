@@ -16,7 +16,7 @@ const char* ssid = "BBH_4";
 const char* password = "Bbhindore#1";
 
 // TELEGRAM
-#define BOTtoken "8722114401:AAESv1cHuPbc4syUrRm9Pm2HhDNsTL-imSc"
+#define BOTtoken "bot token id"
 #define CHAT_ID "5205187464"
 
 WiFiClientSecure client;
