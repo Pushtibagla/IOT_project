@@ -1,7 +1,1 @@
-This IoT-based system transforms a traditional doorbell into 
-a smart security solution using ESP32-CAM. When a visitor 
-presses the button, it captures an image and sends it via 
-Telegram over WiFi.
-Users can remotely grant or deny access through simple 
-Telegram commands, while a hosted web server provides a 
-live camera feed accessible from any browser.
+This IoT-based system transforms a traditional doorbell into a smart security solution using ESP32-CAM. When a visitor presses the button, it captures an image and sends it via Telegram over WiFi.Users can remotely grant or deny access through simple Telegram commands, while a hosted web server provides a live camera feed accessible from any browser.
